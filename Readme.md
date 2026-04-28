@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [bob-TPAKTOPUCT!](https://up.htmlacademy.ru/htmlcss-individual/3/user/554915).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
