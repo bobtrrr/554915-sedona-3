@@ -34,7 +34,7 @@
   --button-bg-primary-hover: #68a2ca;
   --button-bg-secondary: #756157;
   --button-bg-secondary-hover: #615048;
-  --font-family: "PT Sans";
+  --font-family: "PT Sans", sans-serif;
   --icon-bg-color: #83b3d3;
   --icon-bg-color-active: rgba(104, 162, 202, 0.3);
   --icon-bg-color-hover: #68a2ca;
